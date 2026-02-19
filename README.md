@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+---
+🌱 I’m currently learning ...
+- Python
+- C++
 <!--
 **Angel-xyz/Angel-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
