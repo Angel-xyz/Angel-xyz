@@ -1,19 +1,26 @@
-## Hi there 👋
+# Hi, I'm Angel (Archi) 👋
 ---
-🌱 I’m currently learning ...
-- Python
-- C++
-<!--
-**Angel-xyz/Angel-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS sophomore. Building toward applied AI/ML engineering through hands-on Python projects and structured learning.
+Interests: LLM systems, ML pipelines, and the engineering behind them.
 
-Here are some ideas to get you started:
+## What I'm working on
+Learning and shipping small projects as I work through CS fundamentals and cloud infrastructure.
+Interested in LLM systems, data pipelines, and everything that makes them run in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Python projects (CLI tools, data processing, automation)
+- Git and GitHub workflow mastery
+- Machine Learning Specialization — Andrew Ng
+- Math foundations and classic CS algorithms (parallel study)
+
+## Stack
+Python · SQL · Git · Linux · Docker(exploring) · AWS (exploring)
+
+## Projects
+*Coming soon — first data scrapping project on process*
+
+## Writing
+[Medium](https://medium.com/@angelmiranda_50225) — Technical posts of what I am learning
+
+## Connect
+[LinkedIn](https://linkedin.com/in/angel-miranda-x0)
