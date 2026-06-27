@@ -26,4 +26,9 @@ Python · SQL · Git · Linux · Docker(exploring) · AWS (exploring)
 [LinkedIn](https://linkedin.com/in/angel-miranda-x0)
 
 ## Stats
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-xyz&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Angel-xyz&theme=transparent&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-xyz&layout=compact&langs_count=8&card_width=320" />
+</a>
